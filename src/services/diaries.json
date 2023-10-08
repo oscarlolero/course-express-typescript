@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "date": "2015-09-01T12:00:00.000Z",
+    "name": "John Doe",
+    "weather": "rainy",
+    "visibility": "poor",
+    "comment": "Pretty scary flight, I'm glad I'm alive"
+  },
+  {
+    "id": 2,
+    "date": "2015-09-01T12:00:00.000Z",
+    "weather": "cloudy",
+    "visibility": "good",
+    "comment": "My beard was frozen even before we took off"
+  },
+  {
+    "id": 3,
+    "date": "2015-09-01T12:00:00.000Z",
+    "weather": "sunny",
+    "visibility": "good",
+    "comment": "I love the sight of napalm in the morning"
+  }
+]
